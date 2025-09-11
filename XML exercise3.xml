@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> Perfect <food type="breakfast">pancakes</food> are easier to make than you think. This <food
+        type="breakfast">Pancake</food>
+    <instructions>recipe</instructions> produces thick, <soft>fluffy</soft>, and all-around
+    delicious <food type="breakfast">pancakes</food> with just a few ingredients that are probably
+    already in your <place type="room">kitchen</place> (and it's so much better than the boxed
+    stuff). <!-- using the box you could easily skip most of instructions written down here -->
+    <title>How to Make <breakfast>pancakes</breakfast></title> You'll find a detailed ingredient
+    list and step-by-step instructions in the <instructions>recipe</instructions> below, but let's
+    go over the basics: <food type="breakfast">Pancake</food> Ingredients You likely already have
+    everything you need to make this <food type="breakfast">Pancake</food>
+    <instructions>recipe</instructions>. If not, here's what to add to your grocery list: · <ing
+        type="starch">Flour</ing>: This homemade <food type="breakfast">Pancake</food>
+    <instructions>recipe</instructions> starts with <ing type="starch">all-purpose flour</ing>. ·
+        <ing type="leavener">Baking powder</ing>:<ing type="leavener"> Baking powder</ing>, a
+    leavener, is the secret to <soft>fluffy</soft>
+    <breakfast>pancakes</breakfast>. ·<ing type="sweetener"> Sugar</ing>: Just a<amt>
+        tablespoon</amt> of <ing type="sweetener">white sugar</ing> is all you'll need for subtly
+    sweet <breakfast>pancakes</breakfast>. ·<ing type="condiment"> Salt</ing>: A <amt>pinch</amt>
+        of<ing type="condiment"> salt</ing> will enhance the overall flavor without making your
+        <food type="breakfast">pancakes</food> taste salty. · <ing type="dairy">Milk and
+        butter</ing>:<ing type="dairy"> Milk and butter</ing> add moisture and richness to the
+        <breakfast>pancakes</breakfast>. ·<ing type="protein"> Egg</ing>: A whole <ing
+        type="protein">egg</ing> lends even more moisture. Plus, it helps bind the <food
+        type="breakfast">Pancake</food> batter together. How to Make <food type="breakfast"
+        >pancakes</food> From Scratch It's not hard to make homemade <food type="breakfast"
+        >pancakes</food>— you just need a good <instructions>recipe</instructions>. That's where we
+    come in! You'll find the step-by-step <instructions>recipe</instructions> below, but here's a
+    brief overview of what you can expect: <step num="1"> Sift the dry ingredients together.</step>
+    <step num="2"> Make a well, then add the wet ingredients. Stir to combine.</step>
+    <step num="3">Scoop the batter onto a <tool>hot griddle</tool> or <tool>pan</tool>.</step>
+    <step num="4"> Cook for two to three minutes, then flip.</step>
+    <step num="5"> Continue cooking until brown on both sides.</step>
+</root>

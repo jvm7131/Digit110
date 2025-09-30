@@ -1,0 +1,10 @@
+start = root
+root = element root { title, author, poem, line}
+title = element title { text, insect}
+insect = element insect { text}
+author = element author {text}
+poem = element poem {text, line+}
+line = element line { text, n, vehicle*, insect* }
+vehicle = element vehicle { text}
+n = attribute n {xsd:integer}
+

@@ -19,20 +19,28 @@
   <text xml:lang="eng">
       <body>
       <div type="calendarPage">  
+         <figure>
+            <graphic url="images/1909-10-30.png"></graphic>
+         </figure>
      <p style="paperDescription"> written on light brown paper with 2 holes on the top</p> 
+         <p style="imageText"> COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN.</p>
          <dateline><date when="1990-01-30"> Saturday, January 30, 1990</date></dateline>
          <figure>
             <figDesc> Man in bed, he looks very tired</figDesc>
          </figure>
-           <note resp="mp"> Calender has writing in the middle of page thats in black ink and  in cursive that is <unclear reason="handwriting">difficult to read</unclear></note>
+           <note resp="mp"> Calender has writing in the middle of page thats in <material>black ink</material> and  in cursive that is <unclear reason="handwriting">difficult to read</unclear></note>
       </div>
          <div type="calendarPage">
+            <figure>
+               <graphic url="images/1909-03-08.png"></graphic>
+            </figure>
             <p style="paperDescription"> written on light brown paper with 2 holes on the top</p>
+            <p style="imageText"> COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN.</p>
             <dateline><date when="1909-03-01"> monday, March 8, 1909</date></dateline>
             <figure>
                <figDesc> big red question mark in the middle of page</figDesc>
             </figure>
-            <note resp="mp"> calender has writing at the bottom right corner in red ink that is <unclear reason="handwriting"> difficult to read</unclear></note>
+            <note resp="mp"> calender has writing at the bottom right corner in <material>red ink</material> that is <unclear reason="handwriting"> difficult to read</unclear></note>
          </div>
       </body>
   </text>

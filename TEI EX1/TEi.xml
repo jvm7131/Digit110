@@ -24,7 +24,7 @@
          <figure>
             <figDesc> Man in bed, he looks very tired</figDesc>
          </figure>
-           <p> Calender has writing in the middle of page thats in black ink and  in cursive that is <unclear reason="handwriting">difficult to read</unclear></p>
+           <note resp="mp"> Calender has writing in the middle of page thats in black ink and  in cursive that is <unclear reason="handwriting">difficult to read</unclear></note>
       </div>
          <div type="calendarPage">
             <p style="paperDescription"> written on light brown paper with 2 holes on the top</p>
@@ -32,7 +32,7 @@
             <figure>
                <figDesc> big red question mark in the middle of page</figDesc>
             </figure>
-            <p> calender has writing at the bottom right corner in red ink that is <unclear reason="handwriting"> difficult to read</unclear></p>
+            <note resp="mp"> calender has writing at the bottom right corner in red ink that is <unclear reason="handwriting"> difficult to read</unclear></note>
          </div>
       </body>
   </text>

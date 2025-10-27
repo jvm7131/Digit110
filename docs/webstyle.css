@@ -1,7 +1,11 @@
 
 body {
-    background: black;
-    color: white;
+     background-image: url("images/windows.jpg");
+     background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    color: black;
     font-family: arial, helvetica, sans-serif;
 }
 ol {
@@ -9,3 +13,6 @@ ol {
     padding: 5em;
 
 }
+h1{text-align: center;
+font-family:"Snell Roundhand";
+font-size: 40px
